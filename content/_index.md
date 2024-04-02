@@ -10,7 +10,8 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-I'm both a multitalented creative and a technically gifted engineer. I’m a
-well-rounded sound designer and an electronic music musician and producer with
-a record label. I used to be a Linux System Administrator. Currently learning
-Swift and studying CS Fundamentals (DSA, Complexity, OOP, DDD, Agile).
+A multitalented creative. A technically gifted engineer. A well-rounded sound
+designer. An electronic music musician and producer with a record label. Ex
+Linux System Administrator. Currently learning Swift and studying CS
+Fundamentals (DSA, Complexity, OOP, DDD, Agile). In love with Functional
+Programming.
