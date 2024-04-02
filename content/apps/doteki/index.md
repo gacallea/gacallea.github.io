@@ -4,7 +4,7 @@ description = "Add dynamic content to your GitHub profile through an intuitive p
 weight = 30
 
 [extra]
-local_image = "projects/doteki/doteki_logo.webp"
+local_image = "apps/doteki/doteki_logo.webp"
 social_media_card = "social_cards/projects_doteki.jpg"
 canonical_url = "https://osc.garden/projects/doteki/"
 +++

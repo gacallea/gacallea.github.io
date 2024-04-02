@@ -196,8 +196,9 @@ social_media_card = "img/gacallea.webp"
 
 menu = [
   { name = "blog", url = "blog", trailing_slash = true },
-  { name = "archive", url = "archive", trailing_slash = true },
-  { name = "projects", url = "projects", trailing_slash = true },
+  { name = "apps", url = "apps", trailing_slash = true },
+  { name = "sound", url = "sound", trailing_slash = true },
+  { name = "music", url = "music", trailing_slash = true },
   { name = "tags", url = "tags", trailing_slash = true },
 ]
 
@@ -216,17 +217,15 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 socials = [
   { name = "github", url = "https://github.com/gacallea/", icon = "github" },
   { name = "linkedin", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
-  { name = "spotify", url = "https://gentlewashrecords.com", icon = "spotify" },
-  { name = "youtube", url = "https://youtube.com/@andreacfromtheapp", icon = "youtube" },
-  { name = "vimeo", url = "https://vimeo.com/earlistensound", icon = "vimeo" },
   { name = "mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
   { name = "twitter", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "twitter" },
 ]
 
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
-  { url = "privacy", name = "privacy", trailing_slash = true },
+  # { url = "privacy", name = "privacy", trailing_slash = true },
   { url = "sitemap.xml", name = "sitemap", trailing_slash = false },
+  { name = "archive", url = "archive", trailing_slash = true },
 ]
 
 # Custom security headers. What urls should your website be able to connect to?

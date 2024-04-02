@@ -4,7 +4,7 @@ description = "Bash script to create public URLs from files or text on remote se
 weight = 50
 
 [extra]
-local_image = "projects/nani/nani_logo.webp"
+local_image = "music/nani/nani_logo.webp"
 canonical_url = "https://osc.garden/projects/tabi/"
 social_media_card = "social_cards/projects_nani.jpg"
 +++
