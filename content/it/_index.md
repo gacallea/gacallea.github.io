@@ -9,14 +9,13 @@ show_reading_time = false
 quick_navigation_buttons = true
 +++
 
-I have been passionately involved with
-[Copyleft](https://en.wikipedia.org/wiki/Copyleft), [Open
-Source](https://en.wikipedia.org/wiki/Free_and_open-source_software), [Creative
-Commons](https://en.wikipedia.org/wiki/Creative_Commons), and
-[Linux](https://en.wikipedia.org/wiki/Linux). In 2002, I fell in love with the
-ethos, the philosophy, and the philanthropy of it all. Becoming a proponent
-activist. Involved with ideas, coding, active participation and teachings. I
-used to be a professional [System
+I have been involved with [Copyleft](https://en.wikipedia.org/wiki/Copyleft),
+[Open Source](https://en.wikipedia.org/wiki/Free_and_open-source_software),
+[Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons), and
+[Linux](https://en.wikipedia.org/wiki/Linux), since 2002. At first, I fell in
+love with the ethos, the philosophy, and the philanthropy of it all. Becoming a
+proponent activist. Involved with ideas, coding, active participation and
+teachings. Professionally, as Linux [System
 Administrator](https://en.wikipedia.org/wiki/System_administrator).
 
 An akin area of interest is the [Cardano](https://cardano.org)
@@ -31,11 +30,12 @@ relevant](https://twitter.com/insaladaPool/status/1380087586509709312). Thanks
 to [Cardano](https://www.essentialcardano.io/) I fell in love with [Functional
 Programming](https://en.wikipedia.org/wiki/Functional_programming). Especially
 with [Haskell](https://www.haskell.org/), [Elm](https://elm-lang.org/), and
-[Roc](https://roc-lang.org/). In an ideal world I would probably be a functional
-programmer.
+[Roc](https://roc-lang.org/). In an *ideal IT world* I would be a purely
+functional programmer.
 
-I'm learning Swift, studying CS Fundamentals, and I'm determined to become a
-professional Swift developer. Programming apps brings together the creative and
-the technical. Moreover, I love doing UI/UX and Swift and apps development fill
-just the right spot of the Venn diagram that is my experience in a number of
-fields.
+I'm currently studying [Swift](https://www.swift.org) and [CS
+Fundamentals](https://en.wikipedia.org/wiki/Computer_science), and I'm
+determined to become a professional developer. Programming apps brings together
+the creative and the technical. Moreover, I love doing UI/UX and Swift and apps
+development fill just the right spot of the Venn diagram that is my experience
+in a number of fields.
