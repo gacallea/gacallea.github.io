@@ -3,10 +3,24 @@ title = "Sound Branding"
 description = ""
 weight = 50
 
+[taxonomies]
+tags = ["sound-design", "sound"]
+
 [extra]
 local_image = "/img/earlistensound.svg"
 canonical_url = "https://osc.garden/sound/passion/"
 +++
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/a5B9hjPTRmk"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 A few passion sound logos, showcasing different identities and styles. Each one
 tailored to intentions and matching their specific aesthetics.

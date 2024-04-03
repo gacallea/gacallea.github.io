@@ -3,10 +3,20 @@ title = "Enhanced Sound Collages"
 description = ""
 weight = 50
 
+[taxonomies]
+tags = ["sound-design", "sound"]
+
 [extra]
 local_image = "/img/earlistensound.svg"
 canonical_url = "https://osc.garden/sound/collages/"
 +++
+
+<iframe
+  width="100%"
+  height="180"
+  src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fgentlewash%2Fplaylists%2Fispirazione%2F"
+  frameborder="0" >
+</iframe>
 
 *ISPIRAZIONE* (Italian for Inspiration) is a series of `Enhanced Sound
 Collages`. An acrostic comprising a set of nouns describing the characteristics
