@@ -33,3 +33,5 @@ On the other hand, that didn't pan out. Thus, I'm determined to become a
 professional Swift developer. Programming apps brings together the creative and
 the technical. Moreover, I love doing UI/UX. Swift and apps fill just the right
 spot of the Venn diagram that is my experience in a number of fields.
+
+Here are a few examples of my sounds design. Enjoy.
