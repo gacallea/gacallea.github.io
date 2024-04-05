@@ -27,11 +27,16 @@ recordist](https://en.wikipedia.org/wiki/Field_recording).
 
 Technically, I'm a qualified sound designer and a one stop shop for your
 production and post-production needs. With diverse experience on both ends, to
-assist during the entire life span of the production pipeline.
+assist during the entire life span of the production pipeline. On the other
+hand, that didn't pan out. Thus, I'm determined to become a professional Swift
+developer.
 
-On the other hand, that didn't pan out. Thus, I'm determined to become a
-professional Swift developer. Programming apps brings together the creative and
-the technical. Moreover, I love doing UI/UX. Swift and apps fill just the right
-spot of the Venn diagram that is my experience in a number of fields.
-
-Here are a few examples of my sounds design. Enjoy.
+Enjoy selected sound design on
+[YouTube](https://www.youtube.com/@andreacfromtheapp): [passion sound
+design](https://youtu.be/Pe_GcG-kgIs),
+[soundscapes](https://youtu.be/Chc5-9eZxjY), [sound
+branding](https://youtu.be/a5B9hjPTRmk), my [VFS final
+project](https://youtu.be/J-zkijb-IAo), and [City and Memory
+contributions](https://youtu.be/678I94EFMe0). A [series of
+mixtapes](https://www.mixcloud.com/gentlewash/playlists/ispirazione/) are
+available on MixCloud as well.
