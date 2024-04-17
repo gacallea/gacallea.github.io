@@ -30,12 +30,7 @@ assist during the entire life span of the production pipeline. On the other
 hand, that didn't pan out. Thus, I'm determined to become a professional Swift
 developer.
 
-Enjoy selected sound design on
-[YouTube](https://www.youtube.com/@andreacfromtheapp): [passion sound
-design](https://youtu.be/Pe_GcG-kgIs),
-[soundscapes](https://youtu.be/Chc5-9eZxjY), [sound
-branding](https://youtu.be/a5B9hjPTRmk), my [VFS final
-project](https://youtu.be/J-zkijb-IAo), and [City and Memory
-contributions](https://youtu.be/678I94EFMe0). A [series of
+Enjoy selected sound design on [Vimeo](https://vimeo.com/earlistensound). A
+[series of
 mixtapes](https://www.mixcloud.com/gentlewash/playlists/ispirazione/) are
 available on MixCloud as well.
