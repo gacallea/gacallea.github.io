@@ -31,6 +31,6 @@ hand, that didn't pan out. Thus, I'm determined to become a professional Swift
 developer.
 
 Enjoy selected sound design on [Vimeo](https://vimeo.com/earlistensound). A
-[series of
-mixtapes](https://www.mixcloud.com/gentlewash/playlists/ispirazione/) are
-available on MixCloud as well.
+series of [Enahanced Sound
+Collages](https://www.mixcloud.com/gentlewash/playlists/ispirazione/) are
+available on MixCloud.
