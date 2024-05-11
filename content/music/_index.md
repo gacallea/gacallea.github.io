@@ -20,12 +20,11 @@ Ecologies](https://www.futureecologies.net/music).
 I publish under two monikers
 with different styles:
 
-- [Aner Andros](https://gentlewashrecords.com/about/anerandros):  left-field,
-  cinematic ambient, soundscapes, sound collages, oneiric story telling, moon
-  musick, and sound design. A darker and more introspective music.
+- [Aner Andros](https://gentlewashrecords.com/about/anerandros): a left-field,
+darker, and introspective aesthetic.
 
-- [GKRGY](https://gentlewashrecords.com/about/gkrgy): fulfilling creative needs
-with a focus on the rhythmic and brighter side of tunes.
+- [GKRGY](https://gentlewashrecords.com/about/gkrgy): focusing on the rhythmic
+and brighter side of tunes.
 
 Over the years I have performed sporadically and with great enjoyment. I'm fond
 of improvisation and of bespoke live shows. Using empathy and intuition as
