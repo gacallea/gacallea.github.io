@@ -14,8 +14,8 @@ I have been involved with [Copyleft](https://en.wikipedia.org/wiki/Copyleft),
 [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons), and
 [Linux](https://en.wikipedia.org/wiki/Linux), since 2002. At first, because of
 the ethos, the philosophy, and the philanthropy of it all. Then, as a
-proponent, I was involved with ideas, coding, active participation and
-teachings. Professionally, as Linux
+proponent, I was involved with writings, ideas, coding, active participation
+and teachings. Professionally, as Linux
 [SysAdmin](https://en.wikipedia.org/wiki/System_administrator) for 15 years.
 
 An akin area of interest is the [Cardano](https://cardano.org)
