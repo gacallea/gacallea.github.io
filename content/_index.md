@@ -10,6 +10,6 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-A versatile creative and a gifted engineer. Used to be Linux System
-Administrator. In love with Functional Programming. Studying CS Fundamentals.
-While I music.
+A versatile creative and a gifted engineer. Mostly a hobbyist musician barely
+staying afloat with day-jobs. Ex Linux System Administrator. I love functional
+programming. Cardano enthusiast. Learning Haskell. Techno-utopian. HSP.
