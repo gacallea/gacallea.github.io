@@ -70,9 +70,9 @@ smart_punctuation = true
 [link_checker]
 # Skip link checking for external URLs that start with these prefixes
 skip_prefixes = [
-  "http://[2001:db8::]/",
-  "http://127.0.0.1/",
-  "http://localhost",
+    "http://[2001:db8::]/",
+    "http://127.0.0.1/",
+    "http://localhost",
 ]
 
 # Skip anchor checking for external URLs that start with these prefixes
@@ -195,12 +195,12 @@ favicon_emoji = ""
 social_media_card = "img/gacallea.webp"
 
 menu = [
-  { name = "blog", url = "blog", trailing_slash = true },
-  # { name = "apps", url = "apps", trailing_slash = true },
-  { name = "sound", url = "sound", trailing_slash = true },
-  { name = "music", url = "music", trailing_slash = true },
-  { name = "it", url = "it", trailing_slash = true },
-  { name = "tags", url = "tags", trailing_slash = true },
+    { name = "blog", url = "blog", trailing_slash = true },
+    # { name = "apps", url = "apps", trailing_slash = true },
+    { name = "sound", url = "sound", trailing_slash = true },
+    { name = "music", url = "music", trailing_slash = true },
+    { name = "it", url = "it", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
 ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
@@ -216,17 +216,17 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder
 socials = [
-  { name = "github", url = "https://github.com/gacallea/", icon = "github" },
-  { name = "linkedin", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
-  { name = "mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
-  { name = "twitter", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "twitter" },
+    { name = "github", url = "https://github.com/gacallea/", icon = "github" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
+    { name = "mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
+    { name = "twitter", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "bluesky" },
 ]
 
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
-  # { url = "privacy", name = "privacy", trailing_slash = true },
-  { url = "sitemap.xml", name = "sitemap", trailing_slash = false },
-  { name = "archive", url = "archive", trailing_slash = true },
+    # { url = "privacy", name = "privacy", trailing_slash = true },
+    { url = "sitemap.xml", name = "sitemap", trailing_slash = false },
+    { name = "archive", url = "archive", trailing_slash = true },
 ]
 
 # Custom security headers. What urls should your website be able to connect to?
@@ -236,30 +236,30 @@ footer_menu = [
 # Default config, allows for https remote images and embedding YouTube and Vimeo content.
 # This configuration (along with the right webserver settings) gets an A+ in Mozilla's Observatory: https://observatory.mozilla.org
 allowed_domains = [
-  { directive = "font-src", domains = [
-    "'self'",
-    "data:",
-  ] },
-  { directive = "img-src", domains = [
-    "'self'",
-    "https://*",
-    "data:",
-  ] },
-  { directive = "media-src", domains = [
-    "'self'",
-    "https://cdn.jsdelivr.net/",
-  ] },
-  { directive = "script-src", domains = [
-    "'self'",
-  ] },
-  { directive = "style-src", domains = [
-    "'self'",
-  ] },
-  { directive = "frame-src", domains = [
-    "player.vimeo.com",
-    "https://www.youtube-nocookie.com",
-    "https://player-widget.mixcloud.com",
-  ] },
+    { directive = "font-src", domains = [
+        "'self'",
+        "data:",
+    ] },
+    { directive = "img-src", domains = [
+        "'self'",
+        "https://*",
+        "data:",
+    ] },
+    { directive = "media-src", domains = [
+        "'self'",
+        "https://cdn.jsdelivr.net/",
+    ] },
+    { directive = "script-src", domains = [
+        "'self'",
+    ] },
+    { directive = "style-src", domains = [
+        "'self'",
+    ] },
+    { directive = "frame-src", domains = [
+        "player.vimeo.com",
+        "https://www.youtube-nocookie.com",
+        "https://player-widget.mixcloud.com",
+    ] },
 ]
 
 # Enable the CSP directives configured (or default).
