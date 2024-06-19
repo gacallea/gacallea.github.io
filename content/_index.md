@@ -10,6 +10,6 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-A versatile creative and a gifted engineer. Mostly a hobbyist musician barely
-staying afloat with day-jobs. Ex Linux System Administrator. I love functional
-programming. Cardano enthusiast. Learning Haskell. Techno-utopian. HSP.
+A versatile creative and a gifted engineer. Hobbyist musician staying afloat.
+Day-jobs. HSP. Idealist. Weirdo. Misfit. Ex Linux System Admininistrator.
+I Love Functional Programming. Cardano enthusiast. Learning Haskell. Techno-utopian.
