@@ -218,7 +218,6 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 socials = [
   { name = "github", url = "https://github.com/gacallea/", icon = "github" },
   { name = "linkedin", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
-  { name = "youtube", url = "https://www.youtube.com/@andreacfromtheapp", icon = "youtube" },
   { name = "mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
   { name = "twitter", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "twitter" },
 ]
