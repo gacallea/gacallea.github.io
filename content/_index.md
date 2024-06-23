@@ -1,5 +1,5 @@
 +++
-path = "/"
+paginate_path = "/"
 title = "Latest posts"
 sort_by = "date"
 template = "section.html"
@@ -10,6 +10,6 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-A versatile creative and a gifted engineer. Hobbyist musician staying afloat.
-Day-jobs. HSP. Idealist. Weirdo. Misfit. Ex Linux System Admininistrator.
-I Love Functional Programming. Cardano enthusiast. Learning Haskell. Techno-utopian.
+Multitalented creative. Mostly a hobbyist musician barely staying afloat. HSP.
+Idealist. Weirdo. Misfit. Gifted engineer. Ex Linux SysAdmin. I Love Functional
+Programming. Cardano enthusiast. Techno-utopian. Too sexy for Milan.

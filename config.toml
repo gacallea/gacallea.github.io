@@ -24,7 +24,7 @@ output_dir = "public"
 minify_html = true
 
 # When set to "true", a feed is automatically generated.
-generate_feed = true
+generate_feeds = true
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
 # Example:
