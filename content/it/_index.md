@@ -32,5 +32,5 @@ Programming](https://en.wikipedia.org/wiki/Functional_programming).
 
 I'm currently studying [CS
 Fundamentals](https://en.wikipedia.org/wiki/Computer_science) (DSA, Complexity,
-OOP, DDD, Agile) and [Haskell](https://www.haskell.org/) in my spare time. In the recent past, I've learned
+OOP, DDD, Agile) and [Rust](https://www.rust-lang.org) in my spare time. In the recent past, I've learned
 HTML, CSS, JavaScript, and [Elm](https://elm-lang.org/); explored and abandoned it as a career path.
