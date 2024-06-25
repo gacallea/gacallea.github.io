@@ -1,0 +1,35 @@
+The idea:
+
+In this sound design piece, the emphasis is placed on the juxtaposition of
+speed and still frames. In this trailer, the cars are captured into a precise
+moment of the race: the car accident. The latter is perceived from the driver
+perspective, inside the tumbling vehicle. Within the car accident, the emphasis
+is placed in the shocked driver's mind, where I recreated an unsettling moment.
+However, the race continues nonetheless (the show must go on), and the public
+wants a winner, cheering for the remaining pilots. The accident leads and fades
+back into the race and onto the end of the trailer.
+
+Note on crash iterations:
+
+I had to hold back on some other, more disturbing, implementations of the
+accident moment, to free space for the crash sounds. This decision was made to
+appeal more to the users/listeners and to not make them feel too uncomfortable.
+
+Tools used:
+
+- I designed the suspended moment and the fading cars in Ableton Live, without
+  video, and Audacity, mostly using destructive editing (the original files
+  were preserved for later use). Time stretching, choruses, delays, reverbs,
+  frequency shifters, ring modulator, custom plugin-chains (Ableton racks) and
+  Reaktor.
+
+- I then integrated the above-mentioned sounds and layered/edited/mixed them
+  with the selected sound from the given palette in Pro Tools, using additional
+  sound processing where needed.
+
+Note on mix:
+
+- the entire sound design process was done in headphones, at home. I would have
+  loved to take advantage of the mix lab and mix in 5.1 but I ran out of time.
+
+
