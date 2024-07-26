@@ -30,7 +30,37 @@ relevant](https://twitter.com/insaladaPool/status/1380087586509709312). Thanks
 to [Cardano](https://www.essentialcardano.io/) I fell in love with [Functional
 Programming](https://en.wikipedia.org/wiki/Functional_programming).
 
-I'm currently studying [CS
-Fundamentals](https://en.wikipedia.org/wiki/Computer_science) (DSA, Complexity,
-OOP, DDD, Agile) and [Rust](https://www.rust-lang.org) in my spare time. In the recent past, I've learned
-HTML, CSS, JavaScript, and [Elm](https://elm-lang.org/); explored and abandoned it as a career path.
+After my [failed attempt at professional sound
+design](/content/sound/_index.md), I've been on a learning path leading back
+to IT as a professional developer. TLDR: I'm studying [CS
+Fundamentals](https://en.wikipedia.org/wiki/Computer_science); I'm an
+aspiring Rustacean in love with [Rust](https://www.rust-lang.org).
+
+## Long story
+
+After my [failed attempt at professional sound
+design](/content/sound/_index.md), I've been on a learning path leading back to
+IT as a professional developer. At first - since I love crafting UIs, UXs,
+apps, and websites - I explored front end and mobile apps development. I've
+learned HTML, CSS, JavaScript; and Swift to some extent.
+
+On one hand, I appreciated learning and being able to code my own websites. On
+the other hand, I felt unsatisfied and disillusioned. Since I had fallen in
+love with [Elm](https://elm-lang.org/) and
+[Haskell](https://www.haskell.org), all I wanted to do was functional
+programming professionally. Alas, a career with Elm or Haskell wasn't gonna be
+for me - not for lack of trying - and I was ready to give up and be content
+with a dead-end job to stay afloat and make music.
+
+Before throwing the towel, I decided to explore Rust and see what it was all
+about. Up until this point I had avoided it because of a narrow and uninformed
+view: *low-level programming was definitely not for me*.
+
+I familiarized with the language, the community, its tooling, its design and
+more, and I fell in love. Rust felt like the language I had been dreaming about
+for so long. Among many other things, its values and design aligned with what
+I've always held high in a list of fundamental characteristics. Now, could it
+be viable professionally? Whilst the market is momentarily unfavorable to a
+beginner, Rust enables developing for a high number of technologies - including
+full stack web and apps - and it's here to stay. Thus, I decided to bet my
+future on it.
