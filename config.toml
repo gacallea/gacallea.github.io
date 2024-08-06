@@ -201,7 +201,7 @@ social_media_card = "img/gacallea.webp"
 
 menu = [
   { name = "blog", url = "blog", trailing_slash = true },
-  # { name = "apps", url = "apps", trailing_slash = true },
+  { name = "apps", url = "apps", trailing_slash = true },
   { name = "sound", url = "sound", trailing_slash = true },
   { name = "music", url = "music", trailing_slash = true },
   { name = "it", url = "it", trailing_slash = true },
