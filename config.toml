@@ -283,3 +283,19 @@ enable_csp = true
 custom_subset = false
 
 copyright = "Copyright © Andrea Callea. All rights reserved."
+
+[extra.giscus]
+enabled_for_all_posts = true
+automatic_loading = true
+repo = "gacallea/gacallea.github.io"
+repo_id = "R_kgDOLoVY-w"
+category = "Announcements"
+category_id = "DIC_kwDOLoVY-84Chc2K"
+mapping = "slug"
+strict_title_matching = 1            # 1 to enable, 0 to disable.
+enable_reactions = 1                 # 1 to enable, 0 to disable.
+comment_box_above_comments = false
+light_theme = "noborder_light"
+dark_theme = "noborder_dark"
+lang = ""                            # Leave blank to match the page's language.
+lazy_loading = true
