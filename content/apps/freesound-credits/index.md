@@ -5,7 +5,6 @@ weight = 30
 
 [extra]
 local_image = "apps/freesound-credits/freesound-credits.svg"
-social_media_card = "social_cards/projects_doteki.jpg"
 canonical_url = "https://gacallea.github.io/apps/freesound-credits"
 +++
 
