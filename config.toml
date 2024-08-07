@@ -226,10 +226,10 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder
 socials = [
-  { name = "github", url = "https://github.com/gacallea/", icon = "github" },
-  { name = "linkedin", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
-  { name = "mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
-  { name = "twitter", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "bluesky" },
+  { name = "GitHub", url = "https://github.com/gacallea/", icon = "github" },
+  { name = "LinkedIn", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
+  { name = "Mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
+  { name = "BlueSky", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "bluesky" },
 ]
 
 # Extra menu to show on the footer, below socials section.
