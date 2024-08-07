@@ -283,7 +283,7 @@ enable_csp = true
 # Please see https://welpo.github.io/tabi/blog/custom-font-subset/ to learn how to create this file.
 custom_subset = false
 
-copyright = "Copyright © Andrea Callea. All rights reserved."
+copyright = "© $CURRENT_YEAR Andrea Callea $SEPARATOR Unless otherwise noted, the content in this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license."
 
 [extra.giscus]
 enabled_for_all_posts = true
