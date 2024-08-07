@@ -3,6 +3,9 @@ title = "Freesound Credits"
 description = "A simple command line utility to credit Freesound samples in a usable markdown file"
 weight = 30
 
+[taxonomies]
+tags = ["apps", "rust", "rustlang", "freesound-credits"]
+
 [extra]
 local_image = "apps/freesound-credits/freesound-credits.svg"
 canonical_url = "https://gacallea.github.io/apps/freesound-credits"
