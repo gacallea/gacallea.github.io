@@ -2,6 +2,7 @@
 title = "Freesound Credits"
 description = "A simple command line utility to credit Freesound samples in a usable markdown file"
 weight = 30
+date = 2024-08-06
 
 [taxonomies]
 tags = ["apps", "rust", "rustlang", "freesound-credits"]

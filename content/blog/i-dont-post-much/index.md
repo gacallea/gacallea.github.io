@@ -1,6 +1,6 @@
 +++
 title = "I don't post much. Follow me on socials."
-date = 2023-09-12
+date = 2024-08-07
 
 [taxonomies]
 tags = ["socials", "blog", "apps", "FAQ"]
