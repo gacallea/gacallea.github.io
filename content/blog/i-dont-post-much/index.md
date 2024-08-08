@@ -8,12 +8,14 @@ tags = ["socials", "blog", "apps", "FAQ"]
 
 Hi!
 
-this is my first post on the blog just to notify that - for the time being - I
-don't post much on this very blog. I do most of my posting on socials.
+this is my first post just to notify you that - for the time being - I don't
+post much here.
 
-I have Mastodon and BlueSky, as they are more human. If you would like to stay
-up to date with my shenanigans, follow me if you please. Social links in the
-footer.
+If you would like to follow or stay up to date with my shenanigans, Mastodon
+and BlueSky are the places. Preferable, as they're more human. Social links in
+the footer.
+
+BTW, I don't post much there either but I like the community connections.
 
 ## Apps
 
