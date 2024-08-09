@@ -8,6 +8,14 @@
 - **(version)** 0.5.0 - ([bfb78bf](https://github.com/cocogitto/cocogitto/commit/bfb78bfe4748a8d6dc3801f72420730c1a748bc5)) - gacallea
 
 - - -
+## [0.6.0](https://github.com/cocogitto/cocogitto/compare/d579f3e2a07547c248f0a57c372a04afd3908654..0.6.0) - 2024-08-09
+#### Features
+- add author to changelog - ([ca11e80](https://github.com/cocogitto/cocogitto/commit/ca11e8059fb2419402d2f04421e2fcd7b50c1fa1)) - gacallea
+#### Miscellaneous Chores
+- fix changelog format and add everything - ([d579f3e](https://github.com/cocogitto/cocogitto/commit/d579f3e2a07547c248f0a57c372a04afd3908654)) - gacallea
+
+- - -
+
 
 ## [0.2.0](https://github.com/cocogitto/cocogitto/compare/7c81a4e56a2217ab92d48ee07e3de5f62086049f..0.2.0) - 2024-08-09
 #### Blog Post
