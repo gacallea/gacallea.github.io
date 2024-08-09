@@ -32,7 +32,10 @@ app = { changelog_title = "App Home" }
 
 [changelog]
 path = "CHANGELOG.md"
-authors = []
+template = "remote"
+remote = "github.com"
+repository = "cocogitto"
+owner = "cocogitto"
 
 [bump_profiles]
 
