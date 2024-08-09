@@ -29,6 +29,7 @@ template = "remote"
 remote = "github.com"
 repository = "cocogitto"
 owner = "cocogitto"
+authors = [{ username = "gacallea", signature = "Andrea C" }]
 
 [bump_profiles]
 
