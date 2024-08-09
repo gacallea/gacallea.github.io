@@ -19,13 +19,6 @@ cog verify --file $1
 cog check
 """
 
-# Or file path
-[git_hooks.pre-push]
-script = """#!/bin/sh
-set -e
-cog bump --auto
-"""
-
 [commit_types]
 blog = { changelog_title = "Blog Post" }
 app = { changelog_title = "App Home" }
