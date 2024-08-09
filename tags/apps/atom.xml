@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://gacallea.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;gacallea.github.io">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:separator>
+            •
+        </str:separator>
+        <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</str:about_feeds>
+        <str:visit_the_site>Visit website</str:visit_the_site>
+        <str:recent_posts>Recent posts</str:recent_posts>
+        <str:last_updated_on>Updated on $DATE</str:last_updated_on>
+        <str:default_theme>light</str:default_theme>
+    </str:translations><link rel="extra-stylesheet" href="https://gacallea.github.io/skins/sakura.css?h=79eac8d397b4620ff948" /><title>~/gacallea - apps</title>
+        <subtitle>Andrea Callea Home Page</subtitle>
+    <link href="https://gacallea.github.io/tags/apps/atom.xml" rel="self" type="application/atom+xml"/>
+    <post_listing_date>date</post_listing_date>
+    <link href="https://gacallea.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-07T00:00:00+00:00</updated>
+    <id>https://gacallea.github.io/tags/apps/atom.xml</id><entry xml:lang="en">
+        <title>I don&#x27;t post much. Follow me on socials.</title>
+        <published>2024-08-07T00:00:00+00:00</published>
+        <updated>2024-08-07T00:00:00+00:00</updated>
+        <author>
+            <name>Andrea C</name>
+        </author>
+        <link rel="alternate" href="https://gacallea.github.io/blog/i-dont-post-much/" type="text/html"/>
+        <id>https://gacallea.github.io/blog/i-dont-post-much/</id>
+        </entry><entry xml:lang="en">
+        <title>Freesound Credits</title>
+        <published>2024-08-06T00:00:00+00:00</published>
+        <updated>2024-08-06T00:00:00+00:00</updated>
+        <author>
+            <name>Andrea C</name>
+        </author>
+        <link rel="alternate" href="https://gacallea.github.io/apps/freesound-credits/" type="text/html"/>
+        <id>https://gacallea.github.io/apps/freesound-credits/</id>
+        <summary type="html">A simple command line utility to credit Freesound samples in a usable markdown file</summary>
+        </entry>
+</feed>
